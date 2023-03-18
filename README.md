@@ -1,2 +1,5 @@
-# my-redmine-plugins
-Own redmine plugin list
+# 自分用Redmineプラグイン管理リポジトリ
+
+## 目次 (Redmineプラグイン名 + 説明)
+
+- 
